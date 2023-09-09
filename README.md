@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Allan Justine Mascariñas</h1>
+                                       <h1>Allan Justine Mascariñas</h1>
 <h2>Tinangnan, Tubigon, Bohol</h2>
 <h3>22</h3>
 <h4>Mater Dei College</h4>
