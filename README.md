@@ -1,62 +1,74 @@
-<h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="InfyOm"></h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
 
-<input/>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-# Laravel Boilerplate for AdminLTE Theme
+        .profile {
+            text-align: center;
+        }
 
-Laravel Boilerplate with [AdminLTE](https://adminlte.io/) Theme with [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator).
-Following things are ready to be used directly with AdminLTE Theme.
+        .profile img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
 
-- Signup
-- Login
-- Forgot Password
-- Password Reset
-- Home Layout with Sidebar
+        .profile h1 {
+            font-size: 24px;
+            margin: 0;
+        }
 
-## Packages Installed
+        .profile p {
+            font-size: 16px;
+            margin: 10px 0;
+        }
 
-- InfyOm Laravel Generator
-- AdminLTE Templates
-- Laravel UI
-- Laravel Collective
+        .social-links {
+            text-align: center;
+            margin-top: 20px;
+        }
 
-## Usage
-
-1. Clone/Download a repo.
-2. Copy `.env.example` file to `.env` & Setup your environment variables
-3. Run `composer install`
-4. Generate application key by running `php artisan key:generate`
-
-Once everything is installed, you are ready to go with generator.
-
-## Support Us
-
-We have created [14+ Laravel packages](https://github.com/InfyOmLabs) and invested a lot of resources into creating these all packages and maintaining them.
-
-You can support us by either sponsoring us or buying one of our paid products. Or help us by spreading the word about us on social platforms via tweets and posts.
-
-### Sponsors
-
-[Become a sponsor](https://opencollective.com/infyomlabs#sponsor) and get your logo on our README on Github with a link to your site.
-
-<a href="https://opencollective.com/infyomlabs#sponsor"><img src="https://opencollective.com/infyomlabs/sponsors.svg?width=890"></a>
-
-### Backers
-
-[Become a backer](https://opencollective.com/infyomlabs#backer) and get your image on our README on Github with a link to your site.
-
-<a href="https://opencollective.com/infyomlabs#backer"><img src="https://opencollective.com/infyomlabs/backers.svg?width=890"></a>
-
-### Buy our Paid Products
-
-[![InfyHMS](https://assets.infyom.com/open-source/infyhms-banner.png)](https://1.envato.market/6by5EQ)
-
-You can also check out our other paid products on [CodeCanyon](https://codecanyon.net/user/infyomlabs/portfolio).
-
-### Follow Us
-
-- [Twitter](https://twitter.com/infyom)
-- [Facebook](https://www.facebook.com/infyom)
-- [LinkedIn](https://in.linkedin.com/company/infyom-technologies)
-- [Youtube](https://www.youtube.com/channel/UC8IvwfChD6i7Wp4yZp3tNsQ)
-- [Contact Us](https://infyom.com/contact-us)
+        .social-links a {
+            text-decoration: none;
+            color: #333;
+            font-size: 20px;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="profile">
+            <img src="profile-picture.jpg" alt="User Profile Picture">
+            <h1>John Doe</h1>
+            <p>Web Developer</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel consectetur turpis.</p>
+        </div>
+        <div class="social-links">
+            <a href="https://www.facebook.com/johndoe" target="_blank">Facebook</a>
+            <a href="https://twitter.com/johndoe" target="_blank">Twitter</a>
+            <a href="https://www.linkedin.com/in/johndoe" target="_blank">LinkedIn</a>
+            <a href="https://github.com/johndoe" target="_blank">GitHub</a>
+        </div>
+    </div>
+</body>
+</html>
