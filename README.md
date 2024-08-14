@@ -16,10 +16,11 @@
   /></a>
 </p>
 
-- 💼 Currently Working at **SMCT - Des Strong Motors Inc.** - 💬 Ask me about **LARAVEL, LIVEWIRE, HTML, CSS, BOOTSTRAP, TAILWIND, REACT, ANDROID, VUE** - ✉️ How to
-reach me **labya31@gmail.com** - 📁 About my Projects
-[https://github.com/allanjustine](https://github.com/allanjustine) - 🍔 Master In
-**Eating, Sleeping.**
+- 💼 Currently Working at **SMCT - Des Strong Motors Inc.** 
+- 💬 Ask me about **LARAVEL, LIVEWIRE, HTML, CSS, BOOTSTRAP, TAILWIND, REACT, ANDROID, VUE** 
+- ✉️ You can reach me on my email **labya31@gmail.com** 
+- 📁 About my Projects [https://github.com/allanjustine](https://github.com/allanjustine) 
+- 🍔 Master In **Eating, Sleeping.**
 
 <h3 align="left">Connect with me: </h3>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/1down) 
@@ -27,6 +28,7 @@ reach me **labya31@gmail.com** - 📁 About my Projects
 [![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labya31@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanjustine)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/allanjustine)
+
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
