@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Justine</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">A Fullstack Web Developer</h3>
 
 <p align="left">
   <img
@@ -16,15 +16,28 @@
   /></a>
 </p>
 
-- 💼 Currently Working at **SMCT - Des Strong Motors Inc.** 
-- 💬 Ask me about **![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%2300B4DB?style=for-the-badge&logo=livewire&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)** 
-- ✉️ You can reach me on my email **labya31@gmail.com** 
-- 📁 About my Projects [https://github.com/allanjustine](https://github.com/allanjustine) 
+- 💼 Currently Working at **SMCT - Des Strong Motors Inc.** - 💬 Ask me about
+**![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%2300B4DB?style=for-the-badge&logo=livewire&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)**
+- ✉️ You can reach me on my email
+**[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labya31@gmail.com)**
+- 📁 About my Projects
+[![Github](https://img.shields.io/badge/Github-%23D44638?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjustine)
 - 🍔 Master In **Eating, Sleeping.**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me:</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/1down) [![Instagram](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) [![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labya31@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/1down)
+[![Instagram](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labya31@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![X](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
 
 <p align="left"></p>
@@ -33,12 +46,13 @@
 <p align="left">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"
       alt="laravel"
       width="40"
       height="40"
     />
   </a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -111,7 +125,11 @@
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -135,7 +153,11 @@
       height="40"
     />
   </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <a
+    href="https://developer.android.com/studio"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
       alt="android studio"
@@ -153,7 +175,7 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
       alt="photoshop"
       width="40"
       height="40"
@@ -167,14 +189,15 @@
       height="40"
     />
   </a>
-  <a href="https://picsart.com" target="_blank" rel="noreferrer">
+  <a href="https://picsart.com/create" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/picsart/picsart-icon.svg"
+      src="https://pastatic.picsart.com/cms-pastatic/8218299e-3dc4-4d50-8a54-0b78d3f5a683.svg"
       alt="picsart"
       width="40"
       height="40"
     />
   </a>
+
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -185,7 +208,7 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
       alt="bootstrap"
       width="40"
       height="40"
@@ -193,7 +216,7 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
       alt="tailwindcss"
       width="40"
       height="40"
@@ -208,7 +231,6 @@
     />
   </a>
 </p>
-
 
 <p>
   &nbsp;<img
