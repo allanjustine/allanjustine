@@ -17,7 +17,7 @@
 </p>
 
 - 💼 Currently Working at **SMCT - Des Strong Motors Inc.** 
-- 💬 Ask me about **[![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white)], LIVEWIRE, HTML, CSS, BOOTSTRAP, TAILWIND, REACT, ANDROID, VUE** 
+- 💬 Ask me about **![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white), LIVEWIRE, HTML, CSS, BOOTSTRAP, TAILWIND, REACT, ANDROID, VUE** 
 - ✉️ You can reach me on my email **labya31@gmail.com** 
 - 📁 About my Projects [https://github.com/allanjustine](https://github.com/allanjustine) 
 - 🍔 Master In **Eating, Sleeping.**
