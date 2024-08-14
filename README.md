@@ -17,7 +17,7 @@
 </p>
 
 - 💼 Currently Working at **SMCT - Des Strong Motors Inc.** 
-- 💬 Ask me about **![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%2300B4DB?style=for-the-badge&logo=livewire&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)** 
+- 💬 Ask me about **[![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com) [![Livewire](https://img.shields.io/badge/Livewire-%2300B4DB?style=for-the-badge&logo=livewire&logoColor=white)](https://www.livewire.laravel.com) [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.html.com) [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css) [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.bootstrap.com) [![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.tailwindcss.com) [![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://legacy.reactjs.org/docs/getting-started.html) [![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/en_ph/) [![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)** 
 - ✉️ You can reach me on my email **[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labya31@gmail.com)**
 - 📁 About my Projects [![Github](https://img.shields.io/badge/Github-%23D44638?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjustine)
 - 🍔 Master In **Eating, Sleeping.**
@@ -33,7 +33,7 @@
 <p align="left">
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
         alt="laravel"
         width="40"
         height="40"
@@ -47,7 +47,7 @@
         height="40"
       />
     </a>
-    <a href="https://livewire.io/" target="_blank" rel="noreferrer">
+    <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg"
         alt="livewire"
