@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <a href="https://laravel.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
         alt="laravel"
@@ -39,7 +39,7 @@
         height="40"
       />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://reactjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react"
@@ -47,7 +47,7 @@
         height="40"
       />
     </a>
-    <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer">
+    <a href="https://livewire.laravel.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg"
         alt="livewire"
@@ -55,7 +55,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.mysql.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql"
@@ -63,7 +63,7 @@
         height="40"
       />
     </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <a href="https://flutter.dev" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
         alt="flutter"
@@ -71,7 +71,7 @@
         height="40"
       />
     </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <a href="https://developer.android.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
         alt="android"
@@ -79,7 +79,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3.org/html/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
@@ -87,7 +87,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/css/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
@@ -95,7 +95,7 @@
         height="40"
       />
     </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <a href="https://dart.dev" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
         alt="dart"
@@ -103,7 +103,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <a href="https://www.java.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
         alt="java"
@@ -113,7 +113,7 @@
     </a>
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
+      style="text-decoration: none;" target="_blank"
       rel="noreferrer"
     >
       <img
@@ -123,7 +123,7 @@
         height="40"
       />
     </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <a href="https://postman.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
         alt="postman"
@@ -131,7 +131,7 @@
         height="40"
       />
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <a href="https://code.visualstudio.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
         alt="visual studio"
@@ -141,7 +141,7 @@
     </a>
     <a
       href="https://developer.android.com/studio"
-      target="_blank"
+      style="text-decoration: none;" target="_blank"
       rel="noreferrer"
     >
       <img
@@ -151,7 +151,7 @@
         height="40"
       />
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <a href="https://git-scm.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         alt="git"
@@ -159,7 +159,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <a href="https://www.photoshop.com/en" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
         alt="photoshop"
@@ -167,7 +167,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.canva.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"
         alt="canva"
@@ -175,7 +175,7 @@
         height="40"
       />
     </a>
-    <a href="https://picsart.com/create" target="_blank" rel="noreferrer">
+    <a href="https://picsart.com/create" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://pastatic.picsart.com/cms-pastatic/8218299e-3dc4-4d50-8a54-0b78d3f5a683.svg"
         alt="picsart"
@@ -183,7 +183,7 @@
         height="40"
       />
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <a href="https://firebase.google.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         alt="firebase"
@@ -191,7 +191,7 @@
         height="40"
       />
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <a href="https://getbootstrap.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
         alt="bootstrap"
@@ -199,7 +199,7 @@
         height="40"
       />
     </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <a href="https://tailwindcss.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
         alt="tailwindcss"
@@ -207,7 +207,7 @@
         height="40"
       />
     </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <a href="https://vuejs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
         alt="vuejs"
