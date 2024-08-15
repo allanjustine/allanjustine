@@ -233,7 +233,7 @@
     </a>
     <a href="https://www.apachefriends.org/download.html" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg"
+        src="https://undsgn.com/wp-content/uploads/2018/03/XAMPP-3.jpg"
         alt="xampp"
         width="40"
         height="40"
