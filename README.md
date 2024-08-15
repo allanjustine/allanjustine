@@ -233,7 +233,7 @@
     </a>
     <a href="https://www.apachefriends.org/download.html" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://undsgn.com/wp-content/uploads/2018/03/XAMPP-3.jpg"
+        src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png"
         alt="xampp"
         width="40"
         height="40"
