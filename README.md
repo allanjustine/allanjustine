@@ -231,6 +231,14 @@
         height="40"
       />
     </a>
+    <a href="https://www.apachefriends.org/download.html" style="text-decoration: none;" target="_blank" rel="noreferrer">
+      <img
+        src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg"
+        alt="xampp"
+        width="40"
+        height="40"
+      />
+    </a>
 </p>
 <p>
   &nbsp;<img
