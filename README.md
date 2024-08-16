@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Allan Justine</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
+<a href="https://longtao.fun">
+   <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="50"/>
+</a>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=allanjustine&label=Profile%20views&color=0e75b6&style=flat"
