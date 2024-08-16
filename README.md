@@ -253,5 +253,7 @@
     src="https://github-readme-stats.vercel.app/api?username=allanjustine&show_icons=true&locale=en"
     alt="allanjustine"
   />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjustine&layout=compact" alt="allanjustine" />
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjustine&layout=compact"
+    alt="allanjustine"
+  />
 </p>
