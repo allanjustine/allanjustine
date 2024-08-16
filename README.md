@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allan Justine</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
-<a href="https://allanjustine.github.io/Portfolio" align="center">
-   <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80"/>
-</a>
+<div align="center">
+    <a href="https://allanjustine.github.io/Portfolio">
+       <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80"/>
+    </a>
+</div>
 
 <p align="left">
   <img
