@@ -55,7 +55,7 @@
     </a>
     <a href="https://nextjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
+        src="https://www.zhuravkovigor.com/assets/next-js-optimizations.png"
         alt="react"
         width="40"
         height="40"
