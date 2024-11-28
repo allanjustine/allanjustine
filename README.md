@@ -23,7 +23,7 @@
 </p>
 
 - 💼 Currently Working at **SMCT Group of Companies** 
-- 💬 Ask me about **[![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com) [![Livewire](https://img.shields.io/badge/Livewire-%2300B4DB?style=for-the-badge&logo=livewire&logoColor=white)](https://www.livewire.laravel.com) [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.html.com) [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css) [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.bootstrap.com) [![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.tailwindcss.com) [![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://legacy.reactjs.org/docs/getting-started.html) [![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/en_ph/) [![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Spatie](https://img.shields.io/badge/Spatie-%232D8A87?style=for-the-badge&logo=spatie&logoColor=white)](https://spatie.be/) [![Inertia.js](https://img.shields.io/badge/Inertia.js-%233846C5?style=for-the-badge&logo=inertia&logoColor=white)](https://inertiajs.com/)** 
+- 💬 Ask me about **[![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com) [![Livewire](https://img.shields.io/badge/Livewire-%2300B4DB?style=for-the-badge&logo=livewire&logoColor=white)](https://www.livewire.laravel.com) [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.html.com) [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/) [![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css) [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.bootstrap.com) [![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.tailwindcss.com) [![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://legacy.reactjs.org/docs/getting-started.html) [![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/en_ph/) [![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Spatie](https://img.shields.io/badge/Spatie-%232D8A87?style=for-the-badge&logo=spatie&logoColor=white)](https://spatie.be/) [![Inertia.js](https://img.shields.io/badge/Inertia.js-%233846C5?style=for-the-badge&logo=inertia&logoColor=white)](https://inertiajs.com/)** 
 - ✉️ You can reach me on my email **[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labya31@gmail.com)**
 - 📁 About my Projects [![Github](https://img.shields.io/badge/Github-%23282C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjustine)
 - 👑 Master In **Eating, Sleeping.**
@@ -48,6 +48,22 @@
     <a href="https://reactjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://nextjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+      <img
+        src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
+        alt="react"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://nestjs.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+      <img
+        src="https://ih1.redbubble.net/image.4053536786.3862/pp,504x498-pad,600x600,f8f8f8.u1.jpg"
         alt="react"
         width="40"
         height="40"
