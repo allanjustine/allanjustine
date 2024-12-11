@@ -153,6 +153,18 @@
         height="40"
       />
     </a>
+    <a
+      href="https://www.typescriptlang.org/"
+      style="text-decoration: none;" target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+        alt="javascript"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://postman.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
