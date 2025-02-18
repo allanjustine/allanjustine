@@ -267,7 +267,7 @@
     </a>
     <a href="https://www.apachefriends.org/download.html" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png"
+        src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg"
         alt="xampp"
         width="40"
         height="40"
