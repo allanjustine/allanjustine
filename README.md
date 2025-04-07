@@ -167,7 +167,7 @@
     </a>
     <a href="https://postman.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+        src="https://miro.medium.com/v2/resize:fit:1400/1*ap0NRizcKwuX5gfzKqEk6Q.png"
         alt="postman"
         width="40"
         height="40"
