@@ -167,7 +167,7 @@
     </a>
     <a href="https://postman.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://blog.logrocket.com/wp-content/uploads/2022/09/automating-api-tests-postman.png"
+        src="https://www.cdnlogo.com/logos/p/20/postman.svg"
         alt="postman"
         width="40"
         height="40"
