@@ -227,7 +227,7 @@
     </a>
     <a href="https://firebase.google.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+        src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
         alt="firebase"
         width="40"
         height="40"
