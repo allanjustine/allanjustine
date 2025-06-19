@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Justine</h1>
-<h3 align="center">A Fullstack Web Developer</h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
 
 <div align="center">
     <a href="https://allanjustine.github.io/Portfolio" target="_blank">
