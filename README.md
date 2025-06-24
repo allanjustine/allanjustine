@@ -2,9 +2,12 @@
 <h3 align="center">A Full-Stack Web Developer</h3>
 
 <div align="center">
-    <a href="https://allanjustine.github.io/Portfolio" target="_blank">
-       <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80"/>
-    </a>
+  <a href="https://allanjustine.github.io/Portfolio" target="_blank" style="margin: 0 8px;">
+    <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80" />
+  </a>
+  <a href="https://github.com/allanjustine" target="_blank" style="margin: 0 8px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
+  </a>
 </div>
 
 <p align="left">
