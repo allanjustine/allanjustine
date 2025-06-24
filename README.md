@@ -6,7 +6,7 @@
     <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80" />
   </a>
   <a href="https://github.com/allanjustine" target="_blank" style="margin: 0 8px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
+    <img src="https://i.pinimg.com/originals/bb/5e/7b/bb5e7b740d56a7949b362c5980c9b61a.gif" width="80" />
   </a>
 </div>
 
