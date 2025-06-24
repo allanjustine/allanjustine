@@ -5,8 +5,8 @@
   <a href="https://allanjustine.github.io/Portfolio" target="_blank" style="margin: 0 8px;">
     <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80" />
   </a>
-  <a href="https://github.com/allanjustine" target="_blank" style="margin: 0 8px; margin-top: -10px;">
-    <img src="https://i.pinimg.com/originals/bb/5e/7b/bb5e7b740d56a7949b362c5980c9b61a.gif" width="80" />
+  <a href="https://github.com/allanjustine" target="_blank" style="margin: 0 8px;">
+    <img src="https://i.pinimg.com/originals/bb/5e/7b/bb5e7b740d56a7949b362c5980c9b61a.gif" width="90" />
   </a>
 </div>
 
