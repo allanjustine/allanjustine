@@ -263,7 +263,7 @@
     </a>
     <a href="https://alpinejs.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://alpinejs.dev/alpine_long.svg"
+        src="https://www.alpinejs.cn/img/logo-title.png"
         alt="vuejs"
         width="40"
         height="40"
