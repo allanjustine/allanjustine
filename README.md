@@ -263,8 +263,8 @@
     </a>
     <a href="https://alpinejs.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://www.alpinejs.cn/img/logo-title.png"
-        alt="vuejs"
+        src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg"
+        alt="alpinejs"
         width="40"
         height="40"
       />
