@@ -52,22 +52,14 @@
     <a href="https://reactjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
+        alt="reactjs"
         width="40"
         height="40"
       />
     </a>
     <a href="https://nextjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
-        src="https://www.zhuravkovigor.com/assets/next-js-optimizations.png"
-        alt="reactjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://nestjs.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://imgs.search.brave.com/4upPOG6VAisBglNxSxFzrQKkukt6OFrSvfOuulkzqEI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8y/NmQwNmE2NTcyYWE1/ZDllY2RiNjk5YWRk/NzFkNDBlNTdhZWZl/ODI0NGM2MzA2YmE1/OGE3MGFlZTZhZDUx/MjNjLzY4NzQ3NDcw/NzMzYTJmMmY2MTcz/NzM2NTc0NzMyZTc2/NjU3MjYzNjU2YzJl/NjM2ZjZkMmY2OTZk/NjE2NzY1MmY3NTcw/NmM2ZjYxNjQyZjc2/MzEzNjM2MzIzMTMz/MzAzNTM1MzkyZjZl/NjU3ODc0NmE3MzJm/NDk2MzZmNmU1ZjZj/Njk2NzY4NzQ1ZjYy/NjE2MzZiNjc3MjZm/NzU2ZTY0MmU3MDZl/Njc"
+src="https://imgs.search.brave.com/4upPOG6VAisBglNxSxFzrQKkukt6OFrSvfOuulkzqEI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8y/NmQwNmE2NTcyYWE1/ZDllY2RiNjk5YWRk/NzFkNDBlNTdhZWZl/ODI0NGM2MzA2YmE1/OGE3MGFlZTZhZDUx/MjNjLzY4NzQ3NDcw/NzMzYTJmMmY2MTcz/NzM2NTc0NzMyZTc2/NjU3MjYzNjU2YzJl/NjM2ZjZkMmY2OTZk/NjE2NzY1MmY3NTcw/NmM2ZjYxNjQyZjc2/MzEzNjM2MzIzMTMz/MzAzNTM1MzkyZjZl/NjU3ODc0NmE3MzJm/NDk2MzZmNmU1ZjZj/Njk2NzY4NzQ1ZjYy/NjE2MzZiNjc3MjZm/NzU2ZTY0MmU3MDZl/Njc"
         alt="nextjs"
         width="40"
         height="40"
