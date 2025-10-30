@@ -333,6 +333,14 @@ src="https://imgs.search.brave.com/4upPOG6VAisBglNxSxFzrQKkukt6OFrSvfOuulkzqEI/r
       height="40"
     />
   </a>
+  <a href="https://ui.shadcn.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4"
+      alt="shadcn"
+      width="40"
+      height="40"
+    />
+  </a>
   </p>
 <p>
   &nbsp;<img
