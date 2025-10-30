@@ -301,7 +301,39 @@ src="https://imgs.search.brave.com/4upPOG6VAisBglNxSxFzrQKkukt6OFrSvfOuulkzqEI/r
         height="40"
       />
     </a>
-</p>
+  <a href="https://www.prisma.io/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"
+      alt="prisma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://github.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      alt="github"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/177543?s=280&v=4"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  </p>
 <p>
   &nbsp;<img
     src="https://github-readme-stats.vercel.app/api?username=allanjustine&show_icons=true&locale=en"
