@@ -65,6 +65,14 @@ src="https://imgs.search.brave.com/4upPOG6VAisBglNxSxFzrQKkukt6OFrSvfOuulkzqEI/r
         height="40"
       />
     </a>
+    <a href="https://reactnative.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+      <img
+        src="https://imgs.search.brave.com/zx_IbVa0yF20wcYuB--9J6VKlYk3Us6sOC4hEYq_Xz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NGRlODIyMzM0/M2ZiYzIyMDdkMDEu/cG5n"
+        alt="inertia"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://livewire.laravel.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg"
@@ -288,14 +296,6 @@ src="https://imgs.search.brave.com/4upPOG6VAisBglNxSxFzrQKkukt6OFrSvfOuulkzqEI/r
     <a href="https://inertiajs.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
       <img
         src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4"
-        alt="inertia"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://reactnative.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://imgs.search.brave.com/zx_IbVa0yF20wcYuB--9J6VKlYk3Us6sOC4hEYq_Xz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NGRlODIyMzM0/M2ZiYzIyMDdkMDEu/cG5n"
         alt="inertia"
         width="40"
         height="40"
