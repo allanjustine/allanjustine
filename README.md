@@ -18,9 +18,9 @@
 </p>
 
 <p align="left">
-  <a href="https://github-profile-trophy-fork-two.vercel.app"
+  <a href="https://github-trophies.vercel.app"
     ><img
-      src="https://github-profile-trophy-fork-two.vercel.app/?username=allanjustine&theme=dark_lover"
+      src="https://github-trophies.vercel.app/?username=allanjustine&theme=dark_lover"
       alt="allanjustine"
   /></a>
 </p>
