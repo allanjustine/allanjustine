@@ -22,6 +22,7 @@
     ><img
       src="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
       alt="allanjustine"
+       style="width: 100%;"
   /></a>
 </p>
 
