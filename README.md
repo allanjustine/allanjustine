@@ -18,9 +18,9 @@
 </p>
 
 <p align="left">
-  <a href="https://github-trophies.vercel.app"
+  <a href="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
     ><img
-      src="https://github-trophies.vercel.app/?username=allanjustine&theme=dark_lover"
+      src="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
       alt="allanjustine"
   /></a>
 </p>
