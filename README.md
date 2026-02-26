@@ -18,15 +18,6 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/allanjustine/allanjustine/stargazers"><img src="https://img.shields.io/github/stars/allanjustine/allanjustine" alt="Stars Badge"/></a>
-  <a href="https://github.com/allanjustine/allanjustine/network/members"><img src="https://img.shields.io/github/forks/allanjustine/allanjustine" alt="Forks Badge"/></a>
-  <a href="https://github.com/allanjustine/allanjustine/pulls"><img src="https://img.shields.io/github/issues-pr/allanjustine/allanjustine" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/allanjustine/allanjustine/issues"><img src="https://img.shields.io/github/issues/allanjustine/allanjustine" alt="Issues Badge"/></a>
-  <a href="https://github.com/allanjustine/allanjustine/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/allanjustine/allanjustine?color=2b9348"></a>
-  <a href="https://github.com/allanjustine/allanjustine/blob/master/LICENSE"><img src="https://img.shields.io/github/license/allanjustine/allanjustine?color=2b9348" alt="License Badge"/></a>
-</p>
-
-<p align="left">
   <a href="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
     ><img
       src="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
