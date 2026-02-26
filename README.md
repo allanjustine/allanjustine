@@ -10,13 +10,6 @@
   </a>
 </div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=allanjustine&label=Profile%20views&color=0e75b6&style=flat"
