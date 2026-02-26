@@ -18,12 +18,12 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/allanjustine/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/allanjustine/awesome-github-profile-readme" alt="Stars Badge"/></a>
-  <a href="https://github.com/allanjustine/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/allanjustine/awesome-github-profile-readme" alt="Forks Badge"/></a>
-  <a href="https://github.com/allanjustine/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/allanjustine/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/allanjustine/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/allanjustine/awesome-github-profile-readme" alt="Issues Badge"/></a>
-  <a href="https://github.com/allanjustine/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/allanjustine/awesome-github-profile-readme?color=2b9348"></a>
-  <a href="https://github.com/allanjustine/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/allanjustine/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+  <a href="https://github.com/allanjustine/allanjustine/stargazers"><img src="https://img.shields.io/github/stars/allanjustine/allanjustine" alt="Stars Badge"/></a>
+  <a href="https://github.com/allanjustine/allanjustine/network/members"><img src="https://img.shields.io/github/forks/allanjustine/allanjustine" alt="Forks Badge"/></a>
+  <a href="https://github.com/allanjustine/allanjustine/pulls"><img src="https://img.shields.io/github/issues-pr/allanjustine/allanjustine" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/allanjustine/allanjustine/issues"><img src="https://img.shields.io/github/issues/allanjustine/allanjustine" alt="Issues Badge"/></a>
+  <a href="https://github.com/allanjustine/allanjustine/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/allanjustine/allanjustine?color=2b9348"></a>
+  <a href="https://github.com/allanjustine/allanjustine/blob/master/LICENSE"><img src="https://img.shields.io/github/license/allanjustine/allanjustine?color=2b9348" alt="License Badge"/></a>
 </p>
 
 <p align="left">
