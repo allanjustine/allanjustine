@@ -1,354 +1,148 @@
-<h1 align="center">Hi 👋, I'm Allan Justine</h1>
-<h3 align="center">A Full-Stack Web Developer</h3>
-
 <div align="center">
-  <a href="https://allanjustine.github.io/Portfolio" target="_blank" style="margin: 0 8px;">
-    <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80" />
-  </a>
-  <a href="https://github.com/allanjustine" target="_blank" style="margin: 0 8px;">
-    <img src="https://cdn.pixabay.com/animation/2022/08/05/07/12/07-12-14-597_512.gif" width="120" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Allan%20Justine&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%" />
+
 </div>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=allanjustine&label=Profile%20views&color=0e75b6&style=flat"
-    alt="allanjustine"
-  />
-</p>
+<div align="center">
 
-<p align="left">
-  <a href="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
-    ><img
-      src="https://github-trophies.vercel.app/?username=allanjustine&theme=matrix"
-      alt="allanjustine"
-       style="width: 100%;"
-  /></a>
-</p>
+<a href="https://allanjustine.github.io/Portfolio" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Allan+Justine+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Next.js+Enthusiast+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
-- 💼 Currently Working at **SMCT Group of Companies**
-- 💬 Ask me about **[![Laravel](https://img.shields.io/badge/Laravel-%231877F2?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com) [![Livewire](https://img.shields.io/badge/Livewire-%2300B4DB?style=for-the-badge&logo=livewire&logoColor=white)](https://www.livewire.laravel.com) [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.html.com) [![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/) [![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css) [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.bootstrap.com) [![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.tailwindcss.com) [![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://legacy.reactjs.org/docs/getting-started.html) [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/) [![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/en_ph/) [![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Spatie](https://img.shields.io/badge/Spatie-%232D8A87?style=for-the-badge&logo=spatie&logoColor=white)](https://spatie.be/) [![Inertia.js](https://img.shields.io/badge/Inertia.js-%233846C5?style=for-the-badge&logo=inertia&logoColor=white)](https://inertiajs.com/) [![Alpine.js](https://img.shields.io/badge/Alpine.js-%230CA678?style=for-the-badge&logo=alpinelinux&logoColor=white)](https://alpinejs.dev/)
-  **
-- ✉️ You can reach me on my email **[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labya31@gmail.com)**
-- 📁 About my Projects [![Github](https://img.shields.io/badge/Github-%23282C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjustine)
-- 👑 Master In **Eating, Sleeping.**
+<br/>
 
-<h3 align="left">Connect with me: </h3>
+<img src="https://komarev.com/ghpvc/?username=allanjustine&label=Profile+Views&color=a78bfa&style=flat-square" alt="profile views" />
+&nbsp;
+<a href="https://github.com/allanjustine?tab=followers"><img src="https://img.shields.io/github/followers/allanjustine?label=Followers&style=flat-square&color=a78bfa" /></a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/1down) [![Instagram](https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) [![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labya31@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/allan-justine-me)
-[![X](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+</div>
 
-<p align="left"></p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://laravel.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
-        alt="laravel"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://reactjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="reactjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://nextjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.04784322.svg?dpl=dpl_DjxjnN4qrFaV53aEZbBwrtukE5Ht"
-        alt="nextjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://reactnative.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://imgs.search.brave.com/zx_IbVa0yF20wcYuB--9J6VKlYk3Us6sOC4hEYq_Xz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NGRlODIyMzM0/M2ZiYzIyMDdkMDEu/cG5n"
-        alt="inertia"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://livewire.laravel.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg"
-        alt="livewire"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://spatie.be/docs/laravel-medialibrary/v11/converting-images/defining-conversions" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4"
-        alt="spatie"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.mysql.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://flutter.dev" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-        alt="flutter"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://developer.android.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-        alt="android"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3.org/html/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://dart.dev" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-        alt="dart"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.java.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      style="text-decoration: none;" target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://www.typescriptlang.org/"
-      style="text-decoration: none;" target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
-        alt="typescript"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://postman.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.cdnlogo.com/logos/p/20/postman.svg"
-        alt="postman"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://code.visualstudio.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
-        alt="visual studio"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.android.com/studio"
-      style="text-decoration: none;" target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
-        alt="android studio"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://git-scm.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.photoshop.com/en" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
-        alt="photoshop"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.canva.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"
-        alt="canva"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://picsart.com/create" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://iconape.com/wp-content/files/ss/133529/png/picsart-icon-logo.png"
-        alt="picsart"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://firebase.google.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
-        alt="firebase"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://getbootstrap.com" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://tailwindcss.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-        alt="tailwindcss"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://vuejs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://alpinejs.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg"
-        alt="alpinejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://chatgpt.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg"
-        alt="vuejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.apachefriends.org/download.html" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg"
-        alt="xampp"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://fontawesome.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s"
-        alt="xampp"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://inertiajs.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-      <img
-        src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4"
-        alt="inertia"
-        width="40"
-        height="40"
-      />
-    </a>
-  <a href="https://www.prisma.io/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"
-      alt="prisma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://github.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-      alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/177543?s=280&v=4"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ui.shadcn.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-    <img
-      src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4"
-      alt="shadcn"
-      width="40"
-      height="40"
-    />
-  </a>
-  </p>
-<p>
-  &nbsp;<img
-    src="https://github-readme-stats-fork.vercel.app/api?username=allanjustine&show_icons=true&locale=en"
-    alt="allanjustine"
-  />
-  &nbsp;<img src="https://github-readme-stats-fork-two.vercel.app/api/top-langs/?username=allanjustine&layout=compact"
-    alt="allanjustine"
-  />
-</p>
+<div align="center">
+
+### 🌸 About Me
+
+</div>
+
+```yaml
+name       : Allan Justine
+role       : Full-Stack Web Developer
+company    : SMCT Group of Companies
+location   : Philippines 🇵🇭
+portfolio  : https://allanjustine.github.io/Portfolio
+email      : labya31@gmail.com
+hobbies    : Eating 🍜  Sleeping 😴  Coding 💻
+```
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+</div>
+
+<div align="center">
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-F9F5FF?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![NestJS](https://img.shields.io/badge/NestJS-F9F5FF?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![PHP](https://img.shields.io/badge/PHP-F9F5FF?style=for-the-badge&logo=php&logoColor=777BB4)
+![Livewire](https://img.shields.io/badge/Livewire-F9F5FF?style=for-the-badge&logo=livewire&logoColor=4E56A6)
+![Spatie](https://img.shields.io/badge/Spatie-F9F5FF?style=for-the-badge&logo=spatie&logoColor=2D8A87)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-F9F5FF?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-F9F5FF?style=for-the-badge&logo=nextdotjs&logoColor=000000)
+![Vue.js](https://img.shields.io/badge/Vue.js-F9F5FF?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-F9F5FF?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F9F5FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-F9F5FF?style=for-the-badge&logo=inertia&logoColor=3846C5)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-F9F5FF?style=for-the-badge&logo=alpinelinux&logoColor=0CA678)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-F9F5FF?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-F9F5FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-F9F5FF?style=for-the-badge&logo=shadcnui&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-F9F5FF?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-F9F5FF?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React%20Native-F9F5FF?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-F9F5FF?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Android](https://img.shields.io/badge/Android-F9F5FF?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Dart](https://img.shields.io/badge/Dart-F9F5FF?style=for-the-badge&logo=dart&logoColor=0175C2)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-F9F5FF?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F9F5FF?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Prisma](https://img.shields.io/badge/Prisma-F9F5FF?style=for-the-badge&logo=prisma&logoColor=2D3748)
+![Firebase](https://img.shields.io/badge/Firebase-F9F5FF?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-F9F5FF?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-F9F5FF?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-F9F5FF?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats-fork.vercel.app/api?username=allanjustine&show_icons=true&theme=calm&bg_color=F9F5FF&title_color=a78bfa&icon_color=c4b5fd&text_color=6b7280&border_color=e9d5ff&border_radius=12" height="165" />
+&nbsp;
+<img src="https://github-readme-stats-fork-two.vercel.app/api/top-langs/?username=allanjustine&layout=compact&theme=calm&bg_color=F9F5FF&title_color=a78bfa&text_color=6b7280&border_color=e9d5ff&border_radius=12" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allanjustine&theme=calm&background=F9F5FF&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideLabels=6b7280&dates=9ca3af&border=e9d5ff&border_radius=12" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 Trophies
+
+<a href="https://github-trophies.vercel.app/?username=allanjustine&theme=discord">
+  <img src="https://github-trophies.vercel.app/?username=allanjustine&theme=discord&no-frame=true&margin-w=6&margin-h=6" width="100%" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://ph.linkedin.com/in/allan-justine-me" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-F9F5FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://www.facebook.com/1down" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-F9F5FF?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+</a>
+<a href="mailto:labya31@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-F9F5FF?style=for-the-badge&logo=gmail&logoColor=D44638" />
+</a>
+<a href="https://github.com/allanjustine" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-F9F5FF?style=for-the-badge&logo=github&logoColor=181717" />
+</a>
+<a href="https://allanjustine.github.io/Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-F9F5FF?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
