@@ -1,7 +1,39 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Allan%20Justine&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Allan%20Justine%20Mascariñas&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+
+<style>
+.pp {
+  border-radius: 50%;
+  border: 4px solid #0e75b6;
+  box-shadow: 0 0 20px #0e75b6, 0 0 40px #00d4ff;
+  margin-top: -60px;
+  background: #1a1b27;
+  margin-bottom: 10px;
+  animation: pp-pulse 3s ease-in-out infinite;
+  transition: transform 0.3s ease;
+}
+@keyframes pp-pulse {
+  0%   { border-color: #0e75b6; box-shadow: 0 0 15px #0e75b6, 0 0 30px #00d4ff; }
+  25%  { border-color: #00d4ff; box-shadow: 0 0 25px #00d4ff, 0 0 50px #0e75b6; }
+  50%  { border-color: #7b2ff7; box-shadow: 0 0 30px #7b2ff7, 0 0 60px #00d4ff; }
+  75%  { border-color: #00d4ff; box-shadow: 0 0 25px #00d4ff, 0 0 50px #7b2ff7; }
+  100% { border-color: #0e75b6; box-shadow: 0 0 15px #0e75b6, 0 0 30px #00d4ff; }
+}
+.pp:hover {
+  transform: scale(1.08);
+  animation: pp-pulse-hover 0.8s ease-in-out infinite;
+}
+@keyframes pp-pulse-hover {
+  0%   { border-color: #ff6b6b; box-shadow: 0 0 25px #ff6b6b, 0 0 55px #ff6b6b; }
+  33%  { border-color: #ffd93d; box-shadow: 0 0 30px #ffd93d, 0 0 60px #ffd93d; }
+  66%  { border-color: #6bcb77; box-shadow: 0 0 30px #6bcb77, 0 0 60px #6bcb77; }
+  100% { border-color: #ff6b6b; box-shadow: 0 0 25px #ff6b6b, 0 0 55px #ff6b6b; }
+}
+</style>
+<!-- Profile Picture -->
+<img src="https://allanjustine.github.io/Portfolio/images/profile-image.jpg" width="240" height="240" class="pp" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
