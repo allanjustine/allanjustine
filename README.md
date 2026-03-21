@@ -3,37 +3,8 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Allan%20Justine%20Mascariñas&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
-<style>
-.pp {
-  border-radius: 50%;
-  border: 4px solid #0e75b6;
-  box-shadow: 0 0 20px #0e75b6, 0 0 40px #00d4ff;
-  margin-top: -60px;
-  background: #1a1b27;
-  margin-bottom: 10px;
-  animation: pp-pulse 3s ease-in-out infinite;
-  transition: transform 0.3s ease;
-}
-@keyframes pp-pulse {
-  0%   { border-color: #0e75b6; box-shadow: 0 0 15px #0e75b6, 0 0 30px #00d4ff; }
-  25%  { border-color: #00d4ff; box-shadow: 0 0 25px #00d4ff, 0 0 50px #0e75b6; }
-  50%  { border-color: #7b2ff7; box-shadow: 0 0 30px #7b2ff7, 0 0 60px #00d4ff; }
-  75%  { border-color: #00d4ff; box-shadow: 0 0 25px #00d4ff, 0 0 50px #7b2ff7; }
-  100% { border-color: #0e75b6; box-shadow: 0 0 15px #0e75b6, 0 0 30px #00d4ff; }
-}
-.pp:hover {
-  transform: scale(1.08);
-  animation: pp-pulse-hover 0.8s ease-in-out infinite;
-}
-@keyframes pp-pulse-hover {
-  0%   { border-color: #ff6b6b; box-shadow: 0 0 25px #ff6b6b, 0 0 55px #ff6b6b; }
-  33%  { border-color: #ffd93d; box-shadow: 0 0 30px #ffd93d, 0 0 60px #ffd93d; }
-  66%  { border-color: #6bcb77; box-shadow: 0 0 30px #6bcb77, 0 0 60px #6bcb77; }
-  100% { border-color: #ff6b6b; box-shadow: 0 0 25px #ff6b6b, 0 0 55px #ff6b6b; }
-}
-</style>
 <!-- Profile Picture -->
-<img src="https://allanjustine.github.io/Portfolio/images/profile-image.jpg" width="240" height="240" class="pp" />
+<img style="border-radius: 50%;border: 4px solid #0e75b6;box-shadow: 0 0 20px #0e75b6, 0 0 40px #00d4ff;margin-top: -60px;background: #1a1b27;margin-bottom: 10px;" src="https://allanjustine.github.io/Portfolio/images/profile-image.jpg" width="240" height="240" class="pp" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -167,58 +138,42 @@ const allanJustine = {
 
 <div align="center">
 
-<style>
-.tool-icon {
-  display: inline-block;
-  margin: 6px;
-  padding: 10px;
-  background: #1a1b27;
-  border-radius: 12px;
-  border: 1px solid #0e75b620;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-.tool-icon:hover {
-  transform: scale(1.15);
-  box-shadow: 0 4px 20px #0e75b640;
-}
-</style>
-
-<a href="https://laravel.com/" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://reactjs.org/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://nextjs.org/" target="_blank" class="tool-icon"><img src="https://imgs.search.brave.com/P77vz8f_CSDPRp_02Y9kyUC1lz8r_FePsp7pa7fY7AU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvbmV4/dC1qcy1sb2dvLWlj/b24ucG5n" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://reactnative.dev/" target="_blank" class="tool-icon"><img src="https://imgs.search.brave.com/zx_IbVa0yF20wcYuB--9J6VKlYk3Us6sOC4hEYq_Xz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NGRlODIyMzM0/M2ZiYzIyMDdkMDEu/cG5n" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://livewire.laravel.com/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://vuejs.org/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://alpinejs.dev/" target="_blank" class="tool-icon"><img src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://inertiajs.com/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://spatie.be/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://tailwindcss.com/" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://getbootstrap.com" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.w3.org/html/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.mysql.com/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.postgresql.org/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/177543?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.prisma.io/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://nestjs.com/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://flutter.dev" target="_blank" class="tool-icon"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://dart.dev" target="_blank" class="tool-icon"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://developer.android.com" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://developer.android.com/studio" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.java.com" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://firebase.google.com/" target="_blank" class="tool-icon"><img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.docker.com/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://git-scm.com/" target="_blank" class="tool-icon"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://github.com/" target="_blank" class="tool-icon"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://ui.shadcn.com/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://postman.com" target="_blank" class="tool-icon"><img src="https://www.cdnlogo.com/logos/p/20/postman.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.apachefriends.org/download.html" target="_blank" class="tool-icon"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.photoshop.com/en" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://www.canva.com/" target="_blank" class="tool-icon"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://fontawesome.com/" target="_blank" class="tool-icon"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s" width="40" height="40" style="border-radius:8px" /></a>
-<a href="https://chatgpt.com/" target="_blank" class="tool-icon"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://laravel.com/" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://reactjs.org/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://nextjs.org/" target="_blank" class="tool-icon"><img src="https://imgs.search.brave.com/P77vz8f_CSDPRp_02Y9kyUC1lz8r_FePsp7pa7fY7AU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvbmV4/dC1qcy1sb2dvLWlj/b24ucG5n" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://reactnative.dev/" target="_blank" class="tool-icon"><img src="https://imgs.search.brave.com/zx_IbVa0yF20wcYuB--9J6VKlYk3Us6sOC4hEYq_Xz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NGRlODIyMzM0/M2ZiYzIyMDdkMDEu/cG5n" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://livewire.laravel.com/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://vuejs.org/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://alpinejs.dev/" target="_blank" class="tool-icon"><img src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://inertiajs.com/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://spatie.be/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://tailwindcss.com/" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://getbootstrap.com" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.w3.org/html/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.w3schools.com/css/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.typescriptlang.org/" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.mysql.com/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.postgresql.org/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/177543?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.prisma.io/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://nestjs.com/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://flutter.dev" target="_blank" class="tool-icon"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://dart.dev" target="_blank" class="tool-icon"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://developer.android.com" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://developer.android.com/studio" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.java.com" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://firebase.google.com/" target="_blank" class="tool-icon"><img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.docker.com/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://git-scm.com/" target="_blank" class="tool-icon"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://github.com/" target="_blank" class="tool-icon"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://ui.shadcn.com/" target="_blank" class="tool-icon"><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://postman.com" target="_blank" class="tool-icon"><img src="https://www.cdnlogo.com/logos/p/20/postman.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://code.visualstudio.com/" target="_blank" class="tool-icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.apachefriends.org/download.html" target="_blank" class="tool-icon"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.photoshop.com/en" target="_blank" class="tool-icon"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://www.canva.com/" target="_blank" class="tool-icon"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://fontawesome.com/" target="_blank" class="tool-icon"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s" width="40" height="40" style="border-radius:8px" /></a>
+<a style="display: inline-block;margin: 6px;padding: 10px;background: #1a1b27;border-radius: 12px;border: 1px solid #0e75b620;" href="https://chatgpt.com/" target="_blank" class="tool-icon"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="40" height="40" style="border-radius:8px" /></a>
 
 </div>
 
