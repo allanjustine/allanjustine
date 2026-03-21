@@ -8,7 +8,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Allan+Justine+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+cool+stuff+at+SMCT+%F0%9F%92%BC;Web+Development+Enthusiast;%E2%9A%A1+Always+Learning%2C+Always+Building;Master+of+Eating+%26+Sleeping+%F0%9F%91%91;Current+Tech+Stack%3A+Laravel+%7C+Livewire+%7C+Inertia.js;Current+Tech+Stack%3A+Next.js+%7C+React+%7C+Vue+%7C+NestJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Allan+Justine+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+cool+stuff+at+SMCT+%F0%9F%92%BC;Web+Development+Enthusiast;%E2%9A%A1+Always+Learning%2C+Always+Building;Master+of+Eating+%26+Sleeping+%F0%9F%91%91;Current+Tech+Stack%3A+Laravel+%7C+Livewire+%7C+Inertia.js;Current+Tech+Stack%3A+Next.js+%7C+React+%7C+Vue+%7C+NestJS" alt="Typing SVG" />
 </a>
 
 <br/>
