@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Profile Picture -->
-<img style="border-radius: 50%;border: 4px solid #0e75b6;box-shadow: 0 0 20px #0e75b6, 0 0 40px #00d4ff;margin-top: -60px;background: #1a1b27;margin-bottom: 10px;" src="https://allanjustine.github.io/Portfolio/images/profile-image.jpg" width="240" height="240" class="pp" />
-
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Allan%20Justine%20Mascariñas&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
+<!-- Profile Picture -->
+<img style="border-radius: 50%;border: 4px solid #0e75b6;box-shadow: 0 0 20px #0e75b6, 0 0 40px #00d4ff;margin-top: -60px;background: #1a1b27;margin-bottom: 10px;" src="https://allanjustine.github.io/Portfolio/images/profile-image.jpg" width="240" height="240" class="pp" />
+
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Allan+Justine+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+cool+stuff+at+SMCT+%F0%9F%92%BC;Web+Development+Enthusiast;%E2%9A%A1+Always+Learning%2C+Always+Building;Master+of+Eating+%26+Sleeping+%F0%9F%91%91;Current+Tech+Stack%3A+Laravel+%7C+Livewire+%7C+Next.js+%7C+React+%7C+Vue+%7C+NestJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Allan+Justine+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+cool+stuff+at+SMCT+%F0%9F%92%BC;Web+Development+Enthusiast;%E2%9A%A1+Always+Learning%2C+Always+Building;Master+of+Eating+%26+Sleeping+%F0%9F%91%91;Current+Tech+Stack%3A+Laravel+%7C+Livewire+%7C+Inertia.js;Current+Tech+Stack%3A+Next.js+%7C+React+%7C+Vue+%7C+NestJS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -183,7 +183,7 @@ const allanJustine = {
 
 <div align="center">
   <a href="https://github-trophies.vercel.app/?username=allanjustine&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <img src="https://github-trophies.vercel.app/?username=allanjustine&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5s" height="300" alt="trophies" width="100%" />
+    <img src="https://github-trophies.vercel.app/?username=allanjustine&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5s" height="350" alt="trophies" width="100%" />
   </a>
 </div>
 
