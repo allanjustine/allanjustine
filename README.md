@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Allan%20Justine%20Mascariñas&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-
 <!-- Profile Picture -->
 <img style="border-radius: 50%;border: 4px solid #0e75b6;box-shadow: 0 0 20px #0e75b6, 0 0 40px #00d4ff;margin-top: -60px;background: #1a1b27;margin-bottom: 10px;" src="https://allanjustine.github.io/Portfolio/images/profile-image.jpg" width="240" height="240" class="pp" />
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Allan%20Justine%20Mascariñas&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -183,7 +183,7 @@ const allanJustine = {
 
 <div align="center">
   <a href="https://github-trophies.vercel.app/?username=allanjustine&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-    <img src="https://github-trophies.vercel.app/?username=allanjustine&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5s" height="350" alt="trophies" width="100%" />
+    <img src="https://github-trophies.vercel.app/?username=allanjustine&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5s" height="300" alt="trophies" width="100%" />
   </a>
 </div>
 
