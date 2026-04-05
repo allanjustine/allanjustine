@@ -38,8 +38,8 @@ const allanJustine = {
   company: "SMCT Group of Companies",
   stack: ["Laravel", "React", "Next.js", "Vue", "NestJS", "Livewire"],
   hobbies: ["Eating 🍔", "Sleeping 😴"],
-  contact: "labya31@gmail.com",
-  portfolio: "https://allanjustine.github.io/Portfolio",
+  contacts: ["labya31@gmail.com", "09512072888"],
+  portfolios: ["https://allanjustine.github.io/Portfolio", "https://portfolio-v2-eta-jade.vercel.app"],
   personal_apps: [
     {
       link: "https://e-commerce.smctgroup.ph",
