@@ -136,20 +136,105 @@ const allanJustine = {
 
 ## 🛠️ Languages & Tools
 
-| 🖥️ Frontend | ⚙️ Backend | 🗄️ Database | 📱 Mobile | 🔧 Tools |
-|:-----------:|:----------:|:-----------:|:---------:|:--------:|
-| <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a> | <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" /></a> | <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a> | <a href="https://reactnative.dev/"><img src="https://imgs.search.brave.com/zx_IbVa0yF20wcYuB--9J6VKlYk3Us6sOC4hEYq_Xz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NGRlODIyMzM0/M2ZiYzIyMDdkMDEu/cG5n" width="40" /></a> | <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a> |
-| <a href="https://nextjs.org/"><img src="https://imgs.search.brave.com/P77vz8f_CSDPRp_02Y9kyUC1lz8r_FePsp7pa7fY7AU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvbmV4/dC1qcy1sb2dvLWlj/b24ucG5n" width="40" /></a> | <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" /></a> | <a href="https://www.postgresql.org/"><img src="https://avatars.githubusercontent.com/u/177543?s=280&v=4" width="40" /></a> | <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" /></a> | <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /></a> |
-| <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" /></a> | <a href="https://livewire.laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg" width="40" /></a> | <a href="https://www.prisma.io/"><img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" width="40" /></a> | <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" /></a> | <a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4" width="40" /></a> |
-| <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" /></a> | <a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" width="40" /></a> | | <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" /></a> | <a href="https://postman.com"><img src="https://www.cdnlogo.com/logos/p/20/postman.svg" width="40" /></a> |
-| <a href="https://getbootstrap.com"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" /></a> | <a href="https://alpinejs.dev/"><img src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" width="40" /></a> | | <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a> | <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" /></a> |
-| <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a> | <a href="https://spatie.be/"><img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" width="40" /></a> | | <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" /></a> | <a href="https://www.apachefriends.org/download.html"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" /></a> |
-| <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a> | | | | <a href="https://firebase.google.com/"><img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="40" /></a> |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a> | | | | <a href="https://ui.shadcn.com/"><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="40" /></a> |
-| <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" /></a> | | | | <a href="https://www.photoshop.com/en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" /></a> |
-| | | | | <a href="https://www.canva.com/"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" /></a> |
-| | | | | <a href="https://fontawesome.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s" width="40" /></a> |
-| | | | | <a href="https://chatgpt.com/"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="40" /></a> |
+<div align="center">
+<table style="width: 100%">
+<thead>
+<tr>
+<th align="center">🖥️ Frontend</th>
+<th align="center">⚙️ Backend</th>
+<th align="center">🗄️ Database</th>
+<th align="center">📱 Mobile</th>
+<th align="center">🔧 Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a></td>
+<td align="center"><a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40" /></a></td>
+<td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a></td>
+<td align="center"><a href="https://reactnative.dev/"><img src="https://imgs.search.brave.com/zx_IbVa0yF20wcYuB--9J6VKlYk3Us6sOC4hEYq_Xz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE3NGRlODIyMzM0/M2ZiYzIyMDdkMDEu/cG5n" width="40" /></a></td>
+<td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://nextjs.org/"><img src="https://imgs.search.brave.com/P77vz8f_CSDPRp_02Y9kyUC1lz8r_FePsp7pa7fY7AU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvbmV4/dC1qcy1sb2dvLWlj/b24ucG5n" width="40" /></a></td>
+<td align="center"><a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" /></a></td>
+<td align="center"><a href="https://www.postgresql.org/"><img src="https://avatars.githubusercontent.com/u/177543?s=280&v=4" width="40" /></a></td>
+<td align="center"><a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" /></a></td>
+<td align="center"><a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" /></a></td>
+<td align="center"><a href="https://spatie.be/"><img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" width="40" /></a></td>
+<td align="center"><a href="https://www.prisma.io/"><img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" width="40" /></a></td>
+<td align="center"><a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" /></a></td>
+<td align="center"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://livewire.laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"><a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" /></a></td>
+<td align="center"><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" /></a></td>
+<td align="center"><a href="https://postman.com"><img src="https://www.cdnlogo.com/logos/p/20/postman.svg" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a></td>
+<td align="center"><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://alpinejs.dev/"><img src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" /></a></td>
+<td align="center"><a href="https://www.apachefriends.org/download.html"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://firebase.google.com/"><img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://getbootstrap.com"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://ui.shadcn.com/"><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://www.photoshop.com/en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://www.canva.com/"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://fontawesome.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s" width="40" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" /></a></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://chatgpt.com/"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/large_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="40" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 
