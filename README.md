@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Allan%20Justine%20Mascariñas&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Profile Picture -->
-<img style="border-radius: 50%;border: 4px solid #0e75b6;box-shadow: 0 0 20px #0e75b6, 0 0 40px #00d4ff;margin-top: -60px;background: #1a1b27;margin-bottom: 10px;" src="https://allanjustine.github.io/Portfolio/images/profile-image.jpg" width="240" height="240" class="pp" />
+<img style="border-radius: 50%;border: 4px solid #0e75b6;box-shadow: 0 0 20px #0e75b6, 0 0 40px #00d4ff;margin-top: -60px;background: #1a1b27;margin-bottom: 10px;" src="https://allanjustine.github.io/images/profile-image.jpg" width="240" height="240" class="pp" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -19,7 +19,7 @@
 </p>
 
 <!-- Avatar GIFs -->
-<a href="https://allanjustine.github.io/Portfolio" target="_blank">
+<a href="https://allanjustine.github.io" target="_blank">
   <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="80" style="margin: 0 8px;" />
 </a>
 <a href="https://github.com/allanjustine" target="_blank">
