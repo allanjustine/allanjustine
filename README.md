@@ -226,7 +226,7 @@ const allanJustine = {
 <td align="center"><a href="https://fontawesome.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s" width="40" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" /></a></td>
+<td align="center"><a href="https://www.typescriptlang.org/"><img src="https://imgs.search.brave.com/ORFYnwi0LlDdptfZjz0-UmCWUdqI9XvNNxUdYm_gQQQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LXR5cGVzY3JpcHQt/aWNvbi1zdmctZG93/bmxvYWQtcG5nLTI5/NDUyNzIucG5nP2Y9/d2VicCZ3PTEyOA" width="40" /></a></td>
 <td align="center"></td>
 <td align="center"></td>
 <td align="center"></td>
