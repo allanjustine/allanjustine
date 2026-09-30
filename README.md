@@ -35,7 +35,7 @@
 ```ts
 const allanJustine = {
   role: "Full-Stack Web Developer",
-  company: "SMCT Group of Companies",
+  company: "...",
   stack: ["Laravel", "React", "Next.js", "Vue", "NestJS", "Livewire"],
   hobbies: ["Eating 🍔", "Sleeping 😴"],
   contacts: ["labya31@gmail.com", "09512072888"],
