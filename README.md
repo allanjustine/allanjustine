@@ -156,7 +156,7 @@ const allanJustine = {
 <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://nextjs.org/"><img src="https://imgs.search.brave.com/P77vz8f_CSDPRp_02Y9kyUC1lz8r_FePsp7pa7fY7AU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvbmV4/dC1qcy1sb2dvLWlj/b24ucG5n" width="40" /></a></td>
+<td align="center"><a href="https://nextjs.org/"><img src="https://camo.githubusercontent.com/77adf5f52c8ec6ef1ebdd7008fed216c006cb190941c7f379f6b9b8c212bdeef/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="40" /></a></td>
 <td align="center"><a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" /></a></td>
 <td align="center"><a href="https://www.postgresql.org/"><img src="https://avatars.githubusercontent.com/u/177543?s=280&v=4" width="40" /></a></td>
 <td align="center"><a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" /></a></td>
@@ -174,7 +174,7 @@ const allanJustine = {
 <td align="center"></td>
 <td align="center"><a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" /></a></td>
 <td align="center"><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" /></a></td>
-<td align="center"><a href="https://postman.com"><img src="https://www.cdnlogo.com/logos/p/20/postman.svg" width="40" /></a></td>
+<td align="center"><a href="https://postman.com"><img src="https://brandlogos.net/wp-content/uploads/2023/09/postman-logo_brandlogos.net_wfnwx-512x461.png" width="40" /></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" width="40" /></a></td>
